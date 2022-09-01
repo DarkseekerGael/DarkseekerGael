@@ -1,8 +1,10 @@
 ### Hey 👋
 
-#### My name is Fabio, nice to meet you!
+### About me
 
-#### 🌱 I’m currently learning:
+#### My name is Fabio and I'm currently studying at FATEC Jundiaí, nice to mee you!
+
+#### 🌱 What I’m **currently** learning:
 
 #### HTML5
 #### CSS3
