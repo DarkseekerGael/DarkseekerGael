@@ -15,7 +15,7 @@
 - 🛠️ What I **plan to learn** in the future:
 
 <div style="float=right">
-  <img src="https://img.shields.io/badge/-reactjs-blue?style=for-the-badge&logo=react&logoColor=white">  
+  <img src="https://img.shields.io/badge/-react-20232A?style=for-the-badge&logo=react&logoColor=#61DAFB">  
 </div>
 
 - ⌚ In my free time, I like to browse reddit tech subs and read fantasy books.
