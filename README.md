@@ -2,14 +2,14 @@
 
 ### About me
 
-#### My name is Fabio and I'm currently studying at FATEC Jundiaí, nice to mee you!
+#### My name is Fabio and I'm currently studying at FATEC Jundiaí, nice to meet you!
 
 - 🌱 What I’m **currently** learning:
 
-HTML5
-#### CSS3
-#### JavaScript
-#### Java
+<img src="https://img.shields.io/badge/-html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> HTML5
+<img src=""> CSS3
+<img src=""> JavaScript
+<img src=""> Java
 
 - ⌚ In my free time I like to browse reddit tech subs and read books about Software Engineering.
 
