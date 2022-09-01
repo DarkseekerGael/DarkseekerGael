@@ -1,13 +1,14 @@
-### Hey 👋
+### Hey there! 👋
 
 <hr>
+
 ##### ABOUT ME
 
 #### I'm Fabio!
 
-<img src="https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"><a href="https://www.linkedin.com/in/fabio-nalini-26a531231/"></a>
-
 - Currently: studying at FATEC Jundiaí, nice to meet you!
+
+<hr>
 
 🌱 What I’m **currently** learning:
 
@@ -16,6 +17,8 @@
   <img src="https://img.shields.io/badge/-css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/-javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 </div>
+
+<hr>
 
 🛠️ What I **plan to learn** in the future:
 
@@ -27,7 +30,11 @@
 
 ⌚ In my free time, I like to browse reddit tech subs and read fantasy books.
 
+<hr>
 
+#### Do feel free to contact me, if you like
+
+<img src="https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"><a href="https://www.linkedin.com/in/fabio-nalini-26a531231/"></a>
 
 #### See you around 🍀
 
