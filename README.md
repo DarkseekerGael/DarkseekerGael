@@ -3,9 +3,13 @@
 <hr>
 
 #### About me
+
 <br>
+
 #### I'm Fabio, nice to meet you!
+
 <br>
+
 📖 Currently: studying at FATEC Jundiaí.
 
 ⌚ In my free time, I like to browse reddit tech subs and read fantasy books.
