@@ -16,7 +16,7 @@
 
 ### Feel free to contact me if you like!
 
-<a href=https://www.linkedin.com/in/fabio-nalini-26a531231/><img href="https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<img href="https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"><a href=https://www.linkedin.com/in/fabio-nalini-26a531231/></a>
 
 ### See you around!
 
