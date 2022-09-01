@@ -4,8 +4,6 @@
 
 #### About me
 
-<br>
-
 #### I'm Fabio, nice to meet you!
 
 <br>
