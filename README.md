@@ -38,8 +38,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darkseekergael&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<div style="align=center;float=right">
+<div style="align:center;float:right">
   <p>Do feel free to contact me, if you like</p>
   <img src="https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"><a href="https://www.linkedin.com/in/fabio-nalini-26a531231/"></a>
-  <p>See you around~ 🍀</p>
 </div>
+
+####  <p style="align:center">See you around~ 🍀</p>
