@@ -3,9 +3,10 @@
 <hr>
 
 #### About me
-
-#### I'm Fabio, nice to meet you!
-<img src="https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"><a href="https://www.linkedin.com/in/fabio-nalini-26a531231/"></a>
+<div align="center">
+  #### I'm Fabio, nice to meet you!
+  <img src="https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"><a href="https://www.linkedin.com/in/fabio-nalini-           26a531231/"></a>
+</div>
 <br>
 - Currently: studying at FATEC Jundiaí.
 
