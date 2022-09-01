@@ -14,6 +14,12 @@
   <img src="https://img.shields.io/badge/-javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 </div>
 
+- 🌱 What I **plan to learn** in the future:
+
+<div style="float=right">
+  <img src="https://img.shields.io/badge/-reactjs-blue?style=for-the-badge&logo=react&logoColor=white">  
+</div>
+
 - ⌚ In my free time I like to browse reddit tech subs and read books about Software Engineering.
 
 
