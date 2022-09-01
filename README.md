@@ -33,12 +33,8 @@
 
 #### 🔥 My stats:
 
-<div style="float: right">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darkseekergael&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darkseekergael&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darkseekergael&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darkseekergael&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 
