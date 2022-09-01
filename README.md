@@ -34,10 +34,10 @@
 
 #### 🔥 My stats:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkseekerGael)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darkseekergael)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darkseekergael)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darkseekergael&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #### <p align="center">See you around~ 🍀</p>
