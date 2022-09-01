@@ -32,6 +32,6 @@
 
 <img src="https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"><a href="https://www.linkedin.com/in/fabio-nalini-26a531231/"></a>
 
-https://github-readme-stats.vercel.app/api?username=darkseekergael)](https://github.com/DarkseekerGael/github-readme-stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 #### <p align="center">See you around~ 🍀</p>
