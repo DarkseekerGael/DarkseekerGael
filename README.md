@@ -5,6 +5,8 @@
 #### About me
 
 #### I'm Fabio, nice to meet you!
+<br>
+<img src="https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"><a href="https://www.linkedin.com/in/fabio-nalini-26a531231/"></a>
 
 - Currently: studying at FATEC Jundiaí.
 
@@ -38,9 +40,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darkseekergael&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center" style="float: right">
-  <p>Do feel free to contact me, if you like</p>
-  <img src="https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"><a href="https://www.linkedin.com/in/fabio-nalini-26a531231/"></a>
-</div>
 
 <p align="center">See you around~ 🍀</p>
