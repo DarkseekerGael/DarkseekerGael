@@ -40,7 +40,6 @@
 <hr>
 
 #### Do feel free to contact me! See you around~ 🍀
-<img src="https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-<a href="https://www.linkedin.com/in/fabio-nalini-26a531231/"></a>
+<img src="https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"><a href="https://www.linkedin.com/in/fabio-nalini-26a531231/"></a>
 
 
