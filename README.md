@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/-javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 </div>
 
+<br><br>
 🛠️ What I **plan to learn** in the near future:
 
 <div style="float: right">
