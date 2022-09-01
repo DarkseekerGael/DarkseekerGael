@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-<hr>
+<hr style="border: solid 1px red">
 
 ##### ABOUT ME
 
