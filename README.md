@@ -1,6 +1,6 @@
 ### Hey 👋
 
-#### My name is Fabio, nice to meet you!
+- My name is Fabio, nice to meet you!
 
 
 <!--
