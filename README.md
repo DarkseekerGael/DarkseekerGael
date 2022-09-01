@@ -2,7 +2,7 @@
 
 <hr>
 
-#### About me
+### About me
 
 #### I'm Fabio, nice to meet you!
 
