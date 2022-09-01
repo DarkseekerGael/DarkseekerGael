@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
----
+<hr>
 
 ##### About me
 
@@ -31,5 +31,7 @@
 #### Do feel free to contact me, if you like
 
 <img src="https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"><a href="https://www.linkedin.com/in/fabio-nalini-26a531231/"></a>
+
+https://github-readme-stats.vercel.app/api?username=darkseekergael)](https://github.com/DarkseekerGael/github-readme-stats)
 
 #### <p align="center">See you around~ 🍀</p>
