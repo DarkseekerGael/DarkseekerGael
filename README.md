@@ -1,5 +1,6 @@
 ### Hey 👋
 
+<hr>
 ##### ABOUT ME
 
 #### I'm Fabio!
