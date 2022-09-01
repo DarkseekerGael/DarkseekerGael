@@ -4,9 +4,9 @@
 
 ##### ABOUT ME
 
-#### I'm Fabio!
+#### I'm Fabio, nice to meet you!
 
-- Currently: studying at FATEC Jundiaí, nice to meet you!
+- Currently: studying at FATEC Jundiaí.
 
 <hr>
 
@@ -20,7 +20,7 @@
 
 <hr>
 
-🛠️ What I **plan to learn** in the future:
+🛠️ What I **plan to learn** in the near future:
 
 <div style="float=right">
   <img src="https://img.shields.io/badge/-react-20232A?style=for-the-badge&logo=react&logoColor=#61DAFB">  
