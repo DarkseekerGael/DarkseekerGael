@@ -6,9 +6,8 @@
 
 #### I'm Fabio, nice to meet you!</p>
 
-<img src="https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"><a href="https://www.linkedin.com/in/fabio-nalini-           26a531231/"></a>
-
 - Currently: studying at FATEC Jundiaí.
+- ⌚ In my free time, I like to browse reddit tech subs and read fantasy books.
 
 <hr>
 
@@ -28,8 +27,6 @@
   <img src="https://img.shields.io/badge/-typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 </div>
 
-⌚ In my free time, I like to browse reddit tech subs and read fantasy books.
-
 <hr>
 
 #### 🔥 My stats:
@@ -42,3 +39,5 @@
 
 
 <p align="center">See you around~ 🍀</p>
+
+<img src="https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"><a href="https://www.linkedin.com/in/fabio-nalini-           26a531231/"></a>
