@@ -4,6 +4,8 @@
 
 #### My name is Fabio and I'm currently studying at FATEC Jundiaí, nice to meet you!
 
+<br>
+
 - 🌱 What I’m **currently** learning:
 
 <div style="float=right">
