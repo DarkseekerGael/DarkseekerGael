@@ -1,14 +1,15 @@
 ### Hey 👋
 
-### My name is Fabio, nice to meet you!
+#### My name is Fabio, nice to meet you!
 
-### 🌱 I’m currently learning
+#### 🌱 I’m currently learning:
 
-### HTML5
-### CSS3
-### JavaScript
+#### HTML5
+#### CSS3
+#### JavaScript
+#### Java
 
-### ⌚ In my free time I like to browse reddit tech subs and read books about Software Engineering.
+#### ⌚ In my free time I like to browse reddit tech subs and read books about Software Engineering.
 
 
 ### Feel free to contact me if you like!
