@@ -2,9 +2,9 @@
 
 <hr>
 
-##### About me
+#### About me
 
-##### I'm Fabio, nice to meet you!
+#### I'm Fabio, nice to meet you!
 
 - Currently: studying at FATEC Jundiaí.
 
@@ -28,11 +28,11 @@
 
 ⌚ In my free time, I like to browse reddit tech subs and read fantasy books.
 
-##### Do feel free to contact me, if you like
+#### Do feel free to contact me, if you like
 
 <img src="https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"><a href="https://www.linkedin.com/in/fabio-nalini-26a531231/"></a>
 
-##### 🔥 My stats:
+#### 🔥 My stats:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkseekerGael)](https://github.com/anuraghazra/github-readme-stats)
 
