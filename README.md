@@ -10,8 +10,11 @@
 
 📖 Currently studying at FATEC Jundiaí.
 
-⌚ In my free time, I like to browse reddit tech subs and read fantasy books.
+⌚ In my free time, I like to browse reddit and read fantasy books.
 
+🎵 Listening to music is something I absolutely can't live without.
+
+💻 Technology lives in my head rent free.
 
 <hr>
 
@@ -42,6 +45,7 @@
 
 #### Do feel free to contact me! See you around~ 🍀
 <a href="https://www.linkedin.com/in/fabio-nalini-26a531231/"><img src="https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:fabio.nalini@outlook.com"><img src="https://img.shields.io/badge/-outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 
 
 
