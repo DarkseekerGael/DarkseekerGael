@@ -18,7 +18,7 @@
 
 <hr>
 
-🌱 What I’m **currently** learning:
+:bulb: What I’m **currently** learning:
 
 <div style="float: right">
   <img src="https://img.shields.io/badge/-html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
