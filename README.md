@@ -43,7 +43,7 @@
 
 <hr>
 
-#### Do feel free to contact me! See you around~ 🍀
+#### Do feel free to contact me 🍀
 <a href="https://www.linkedin.com/in/fabio-nalini-26a531231/"><img src="https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:fabio.nalini@outlook.com"><img src="https://img.shields.io/badge/-outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 
