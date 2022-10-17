@@ -30,9 +30,10 @@
 🛠️ What I **plan to learn** in the near future:
 
 <div style="float: right">
-  <img src="https://img.shields.io/badge/-react-20232A?style=for-the-badge&logo=react&logoColor=#61DAFB">  
-  <img src="https://img.shields.io/badge/-sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
   <img src="https://img.shields.io/badge/-typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/-react-20232A?style=for-the-badge&logo=react&logoColor=#61DAFB">
+  <img src="https://img.shields.io/badge/-angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/-sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 </div>
 
 <hr>
