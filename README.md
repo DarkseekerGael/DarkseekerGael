@@ -10,7 +10,9 @@
 
 📖 Currently studying at FATEC Jundiaí.
 
-⌚ In my free time, I like to browse reddit and read fantasy books.
+⌚ In my free time, I like to browse reddit, read mostly fantasy and sci-fi books and study.
+
+:cake: I also love cooking, especially desserts.
 
 🎵 Listening to music is something I absolutely can't live without.
 
@@ -24,6 +26,7 @@
   <img src="https://img.shields.io/badge/-html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/-css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/-javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
 </div>
 
 <br><br>
@@ -34,6 +37,7 @@
   <img src="https://img.shields.io/badge/-react-20232A?style=for-the-badge&logo=react&logoColor=#61DAFB">
   <img src="https://img.shields.io/badge/-angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img src="https://img.shields.io/badge/-sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+  <img src="https://img.shields.io/badge/-node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
 </div>
 
 <hr>
