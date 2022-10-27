@@ -1,7 +1,5 @@
 ### Hey there! 👋
 
-<hr>
-
 <!--### About me-->
 
 #### I'm Fabio, nice to meet you!
