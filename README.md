@@ -2,17 +2,12 @@
 <blockquote cite="https://www.goodreads.com/quotes/40777-a-process-cannot-be-understood-by-stopping-it-understanding-must">
   <p>A process cannot be understood by stopping it. Understanding must move with the flow of the process, must join it and flow with it.</p>
 </blockquote>
-  <figcaption>Frank Herbert, <cite>Dune</cite>.</figcaption>
+  <figcaption><p align="right">Frank Herbert, <cite>Dune</cite>.</p></figcaption>
 </figure>
 
 <hr>
 
 ### Hey there! 👋
-
-
-
-
-
 
 #### I'm Fabio, nice to meet you!
 
@@ -20,9 +15,9 @@
 
 📖 Currently studying at FATEC Jundiaí.
 
-⌚ In my free time, I like to browse reddit, read mostly fantasy and sci-fi books and study.
+⌚ In my free time, I like to browse reddit, read mostly fantasy and sci-fi books and study programming.
 
-🍰 I also love cooking, especially desserts.
+🍰 I also really love cooking, especially desserts.
 
 🎵 Listening to music is something I absolutely can't live without.
 
