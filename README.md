@@ -48,12 +48,6 @@
 
 <hr>
 
-#### 🔥 My stats:
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darkseekergael&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darkseekergael)](https://github.com/anuraghazra/github-readme-stats)
-
-<hr>
-
 #### Do feel free to contact me 🍀
 <a href="https://www.linkedin.com/in/fabio-nalini-26a531231/"><img src="https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:fabio.nalini@outlook.com"><img src="https://img.shields.io/badge/-outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
